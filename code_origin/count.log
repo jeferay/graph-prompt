@@ -1,0 +1,190 @@
+nohup: ignoring input
+[('pso.obo', 8297), ('taxrank.obo', 11219), ('zfs.obo', 12259), ('trans.obo', 13824), ('pdumdv.obo', 17124), ('chiro.obo', 31316), ('zeco.obo', 36631), ('fao.obo', 36642), ('olatdv.obo', 36712), ('cio.obo', 40129), ('ddanat.obo', 58561), ('exo.obo', 60911), ('mmusdv.obo', 70400), ('bspo.obo', 72329), ('clyh.obo', 79546), ('bfo.obo', 85736), ('rnao.obo', 101898), ('apo.obo', 105268), ('fbdv.obo', 109130), ('dpo.obo', 111291), ('sibo.obo', 119393), ('hsapdv.obo', 135493), ('amphx.obo', 148330), ('symp.obo', 173585), ('tads.obo', 259092), ('poro.obo', 290345), ('clao.obo', 293305), ('ddpheno.obo', 295974), ('ecao.obo', 299360), ('peco.obo', 313999), ('xco.obo', 329648), ('mmo.obo', 389089), ('ma.obo', 391635), ('ro.obo', 407785), ('xlmod.obo', 430570), ('wbls.obo', 442597), ('ceph.obo', 452218), ('pato.obo', 665934), ('mi.obo', 691698), ('to.obo', 720710), ('plana.obo', 747968), ('ms.obo', 755176), ('xao.obo', 817903), ('miro.obo', 836846), ('idomal.obo', 858001), ('hao.obo', 901076), ('cdno.obo', 928385), ('ehdaa2.obo', 945836), ('omp.obo', 956565), ('tgma.obo', 970910), ('wbphenotype.obo', 1003689), ('so.obo', 1019252), ('eco.obo', 1072080), ('fbcv.obo', 1218206), ('pw.obo', 1248034), ('po.obo', 1314186), ('obi.obo', 1355986), ('zfa.obo', 1599499), ('wbbt.obo', 1609238), ('rbo.obo', 1669078), ('scdo.obo', 1745963), ('aism.obo', 1748290), ('ecocore.obo', 1774388), ('mod.obo', 1830268), ('emapa.obo', 1839218), ('bto.obo', 2076289), ('mco.obo', 2203942), ('planp.obo', 2426235), ('phipo.obo', 2487541), ('cmo.obo', 2590738), ('upa.obo', 3040721), ('fovt.obo', 3693303), ('oba.obo', 3908228), ('gsso.obo', 4882113), ('doid.obo', 6055515), ('mp.obo', 6240990), ('xpo.obo', 7500405), ('hp.obo', 7532931), ('maxo.obo', 7723554), ('cl.obo', 8789056), ('tto.obo', 10719322), ('ecto.obo', 11077482), ('fbbt.obo', 11927223), ('fypo.obo', 14394371), ('zp.obo', 20523502), ('vto.obo', 27544534), ('mondo.obo', 30202725), ('go.obo', 33792486), ('gno.obo', 63920938), ('chebi.obo', 187031309), ('gaz.obo', 188517055), ('pr.obo', 194592592), ('ncit.obo', 241313519), ('ncbitaxon.obo', 456953589)]
+pso.obo    with size8297
+---entity_num 5 ---query_num 0 ---edge_num 3
+taxrank.obo    with size11219
+---entity_num 61 ---query_num 8 ---edge_num 60
+zfs.obo    with size12259
+---entity_num 54 ---query_num 0 ---edge_num 145
+trans.obo    with size13824
+---entity_num 35 ---query_num 3 ---edge_num 31
+pdumdv.obo    with size17124
+---entity_num 21 ---query_num 22 ---edge_num 39
+chiro.obo    with size31316
+---entity_num 0 ---query_num 0 ---edge_num 0
+zeco.obo    with size36631
+---entity_num 161 ---query_num 7 ---edge_num 171
+fao.obo    with size36642
+---entity_num 114 ---query_num 39 ---edge_num 150
+olatdv.obo    with size36712
+---entity_num 47 ---query_num 46 ---edge_num 88
+cio.obo    with size40129
+---entity_num 44 ---query_num 3 ---edge_num 79
+ddanat.obo    with size58561
+---entity_num 130 ---query_num 89 ---edge_num 346
+exo.obo    with size60911
+---entity_num 149 ---query_num 79 ---edge_num 174
+mmusdv.obo    with size70400
+---entity_num 113 ---query_num 107 ---edge_num 304
+bspo.obo    with size72329
+---entity_num 146 ---query_num 113 ---edge_num 345
+clyh.obo    with size79546
+---entity_num 265 ---query_num 18 ---edge_num 182
+bfo.obo    with size85736
+---entity_num 35 ---query_num 0 ---edge_num 34
+rnao.obo    with size101898
+---entity_num 690 ---query_num 0 ---edge_num 0
+apo.obo    with size105268
+---entity_num 340 ---query_num 46 ---edge_num 306
+fbdv.obo    with size109130
+---entity_num 207 ---query_num 73 ---edge_num 621
+dpo.obo    with size111291
+---entity_num 218 ---query_num 137 ---edge_num 248
+sibo.obo    with size119393
+---entity_num 493 ---query_num 36 ---edge_num 1100
+hsapdv.obo    with size135493
+---entity_num 243 ---query_num 57 ---edge_num 705
+amphx.obo    with size148330
+---entity_num 403 ---query_num 22 ---edge_num 347
+symp.obo    with size173585
+---entity_num 948 ---query_num 230 ---edge_num 850
+tads.obo    with size259092
+---entity_num 628 ---query_num 90 ---edge_num 947
+poro.obo    with size290345
+---entity_num 911 ---query_num 819 ---edge_num 1255
+clao.obo    with size293305
+---entity_num 1201 ---query_num 601 ---edge_num 1210
+ddpheno.obo    with size295974
+---entity_num 1069 ---query_num 527 ---edge_num 1152
+ecao.obo    with size299360
+---entity_num 495 ---query_num 265 ---edge_num 1785
+peco.obo    with size313999
+---entity_num 570 ---query_num 868 ---edge_num 595
+xco.obo    with size329648
+---entity_num 678 ---query_num 596 ---edge_num 818
+mmo.obo    with size389089
+---entity_num 697 ---query_num 447 ---edge_num 789
+ma.obo    with size391635
+---entity_num 3230 ---query_num 500 ---edge_num 4103
+ro.obo    with size407785
+---entity_num 78 ---query_num 0 ---edge_num 85
+xlmod.obo    with size430570
+---entity_num 1102 ---query_num 681 ---edge_num 2936
+wbls.obo    with size442597
+---entity_num 777 ---query_num 763 ---edge_num 2719
+ceph.obo    with size452218
+---entity_num 1565 ---query_num 1598 ---edge_num 2335
+pato.obo    with size665934
+---entity_num 2722 ---query_num 851 ---edge_num 2613
+mi.obo    with size691698
+---entity_num 1561 ---query_num 1709 ---edge_num 1540
+to.obo    with size720710
+---entity_num 1532 ---query_num 1564 ---edge_num 1817
+plana.obo    with size747968
+---entity_num 858 ---query_num 701 ---edge_num 1783
+ms.obo    with size755176
+---entity_num 3006 ---query_num 201 ---edge_num 3313
+xao.obo    with size817903
+---entity_num 1768 ---query_num 1271 ---edge_num 6779
+miro.obo    with size836846
+---entity_num 4407 ---query_num 1542 ---edge_num 4453
+idomal.obo    with size858001
+---entity_num 2687 ---query_num 1429 ---edge_num 3555
+hao.obo    with size901076
+---entity_num 2488 ---query_num 2174 ---edge_num 4812
+cdno.obo    with size928385
+---entity_num 1167 ---query_num 2861 ---edge_num 1085
+ehdaa2.obo    with size945836
+---entity_num 2731 ---query_num 69 ---edge_num 12894
+omp.obo    with size956565
+---entity_num 2297 ---query_num 845 ---edge_num 2937
+tgma.obo    with size970910
+---entity_num 1864 ---query_num 3790 ---edge_num 2732
+wbphenotype.obo    with size1003689
+---entity_num 2670 ---query_num 1720 ---edge_num 3321
+so.obo    with size1019252
+---entity_num 2556 ---query_num 4341 ---edge_num 3106
+eco.obo    with size1072080
+---entity_num 1900 ---query_num 644 ---edge_num 4311
+fbcv.obo    with size1218206
+---entity_num 2141 ---query_num 3323 ---edge_num 3452
+pw.obo    with size1248034
+---entity_num 2616 ---query_num 1848 ---edge_num 3249
+po.obo    with size1314186
+---entity_num 1788 ---query_num 5359 ---edge_num 2779
+obi.obo    with size1355986
+---entity_num 4315 ---query_num 1626 ---edge_num 4572
+zfa.obo    with size1599499
+---entity_num 3148 ---query_num 2877 ---edge_num 12016
+wbbt.obo    with size1609238
+---entity_num 7190 ---query_num 2001 ---edge_num 15093
+rbo.obo    with size1669078
+---entity_num 2220 ---query_num 2837 ---edge_num 4411
+scdo.obo    with size1745963
+---entity_num 2071 ---query_num 3195 ---edge_num 2358
+aism.obo    with size1748290
+---entity_num 1642 ---query_num 2698 ---edge_num 4203
+ecocore.obo    with size1774388
+---entity_num 1859 ---query_num 4358 ---edge_num 4572
+mod.obo    with size1830268
+---entity_num 2096 ---query_num 4847 ---edge_num 3714
+emapa.obo    with size1839218
+---entity_num 7921 ---query_num 1133 ---edge_num 21072
+bto.obo    with size2076289
+---entity_num 6515 ---query_num 5707 ---edge_num 7588
+mco.obo    with size2203942
+---entity_num 3383 ---query_num 13132 ---edge_num 6719
+planp.obo    with size2426235
+---entity_num 3504 ---query_num 6973 ---edge_num 8176
+phipo.obo    with size2487541
+---entity_num 3150 ---query_num 7364 ---edge_num 5591
+cmo.obo    with size2590738
+---entity_num 3041 ---query_num 0 ---edge_num 3717
+upa.obo    with size3040721
+---entity_num 4627 ---query_num 2839 ---edge_num 13709
+fovt.obo    with size3693303
+---entity_num 3541 ---query_num 11028 ---edge_num 11626
+oba.obo    with size3908228
+---entity_num 7495 ---query_num 7508 ---edge_num 14969
+gsso.obo    with size4882113
+---entity_num 10663 ---query_num 5133 ---edge_num 0
+doid.obo    with size6055515
+---entity_num 13295 ---query_num 21390 ---edge_num 14948
+mp.obo    with size6240990
+---entity_num 13752 ---query_num 26119 ---edge_num 16806
+xpo.obo    with size7500405
+---entity_num 24151 ---query_num 16055 ---edge_num 43277
+hp.obo    with size7532931
+---entity_num 16366 ---query_num 19911 ---edge_num 20286
+maxo.obo    with size7723554
+---entity_num 9272 ---query_num 25657 ---edge_num 22230
+cl.obo    with size8789056
+---entity_num 10008 ---query_num 26629 ---edge_num 30069
+tto.obo    with size10719322
+---entity_num 38696 ---query_num 56489 ---edge_num 38639
+ecto.obo    with size11077482
+---entity_num 12631 ---query_num 34565 ---edge_num 32374
+fbbt.obo    with size11927223
+---entity_num 17475 ---query_num 23870 ---edge_num 47181
+fypo.obo    with size14394371
+---entity_num 16261 ---query_num 60223 ---edge_num 33356
+zp.obo    with size20523502
+---entity_num 52856 ---query_num 37925 ---edge_num 90248
+vto.obo    with size27544534
+---entity_num 107254 ---query_num 88581 ---edge_num 107058
+mondo.obo    with size30202725
+---entity_num 24418 ---query_num 88177 ---edge_num 40730
+go.obo    with size33792486
+---entity_num 47219 ---query_num 124886 ---edge_num 100900
+gno.obo    with size63920938
+---entity_num 111696 ---query_num 6534 ---edge_num 117877
+chebi.obo    with size187031309
+---entity_num 146245 ---query_num 283161 ---edge_num 0
+gaz.obo    with size188517055
+---entity_num 565420 ---query_num 60461 ---edge_num 798489
+pr.obo    with size194592592
+---entity_num 332237 ---query_num 649059 ---edge_num 880909
+ncit.obo    with size241313519
+---entity_num 164926 ---query_num 325398 ---edge_num 313166
+ncbitaxon.obo    with size456953589
+---entity_num 2334910 ---query_num 293853 ---edge_num 2334908
